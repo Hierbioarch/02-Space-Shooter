@@ -93,7 +93,7 @@ visible = false
 position = Vector2( 0, 40 )
 rotation = 3.14159
 frames = SubResource( 1 )
-frame = 1
+frame = 2
 playing = true
 
 [node name="Shield" type="Area2D" parent="Player"]
